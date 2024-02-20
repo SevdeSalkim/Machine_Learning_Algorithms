@@ -28,7 +28,6 @@ profit_df = pd.DataFrame(data=profit , columns=["Profit"])
 df = pd.concat([first_three_columns_df, state_df,profit_df], axis=1)
 
 # Split train and test data
-
 from sklearn.model_selection import train_test_split
 #features
 X = df.iloc[:,:-1].values
