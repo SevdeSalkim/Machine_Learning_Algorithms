@@ -1,8 +1,8 @@
 ## Machine Learning Algorithms
-###Regression
+### Regression
 Simple Linear Regression
 Multiple Linear Regression
 Polynomial Regression
 Support Vector Regression(SVR)
-###Classification
+### Classification
 Logistic Regression
