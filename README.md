@@ -6,3 +6,4 @@
 * Support Vector Regression(SVR)
 ### Classification
 * Logistic Regression
+* K-Nearest Neighbors(K-NN)
