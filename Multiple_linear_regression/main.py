@@ -9,7 +9,6 @@ X = dataset.iloc[: , :-1].values
 y = dataset.iloc[:,-1].values
 
 #Encoding categorical data
-
 state = dataset.iloc[:,-2].values.reshape(-1,1)
 profit = dataset.iloc[:,-1].values
 first_three_columns = dataset.iloc[:, :3].values
