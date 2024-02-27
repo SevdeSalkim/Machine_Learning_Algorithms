@@ -9,3 +9,6 @@
 * K-Nearest Neighbors(K-NN)
 * Support Machine Vector (SVM)
 * Karnel SVM
+* Naive Bayes 
+* Decision Tree Classification
+* Random Forest Classification
